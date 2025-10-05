@@ -1,3 +1,7 @@
+# Langgraph based Deep Research
+
+My attempt at replicating a langgraph-based deep research multi-agent architecture
+
 To install using UV
     
     pip install uv
