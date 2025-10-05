@@ -7,12 +7,10 @@ To install using UV
 
     # activate the env
     source .venv/bin/activate
-    
+
     uv add <package-name>
 
-To run the code
-
-    
+To run the code for basic agents
 
     cd basics
 
