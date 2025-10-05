@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from utils import graph
+from basics.utils import graph
 
 app = FastAPI()
 
